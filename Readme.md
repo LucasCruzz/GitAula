@@ -4,4 +4,6 @@ Aprendendo Git
 
 Salvar sai
 
-E ai
+Agora vai
+
+Vai toma
